@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ciaai2021/static/css/main.9198e409.chunk.css",
+    "main.js": "/ciaai2021/static/js/main.f4c4a4a0.chunk.js",
+    "main.js.map": "/ciaai2021/static/js/main.f4c4a4a0.chunk.js.map",
+    "runtime-main.js": "/ciaai2021/static/js/runtime-main.ff743eac.js",
+    "runtime-main.js.map": "/ciaai2021/static/js/runtime-main.ff743eac.js.map",
+    "static/js/2.f64ada12.chunk.js": "/ciaai2021/static/js/2.f64ada12.chunk.js",
+    "static/js/2.f64ada12.chunk.js.map": "/ciaai2021/static/js/2.f64ada12.chunk.js.map",
+    "index.html": "/ciaai2021/index.html",
+    "precache-manifest.43a8a1978c85d4af7ef843056e9c0d3d.js": "/ciaai2021/precache-manifest.43a8a1978c85d4af7ef843056e9c0d3d.js",
+    "service-worker.js": "/ciaai2021/service-worker.js",
+    "static/css/main.9198e409.chunk.css.map": "/ciaai2021/static/css/main.9198e409.chunk.css.map",
+    "static/js/2.f64ada12.chunk.js.LICENSE.txt": "/ciaai2021/static/js/2.f64ada12.chunk.js.LICENSE.txt",
+    "static/media/Header.module.scss": "/ciaai2021/static/media/Toronto-skyline.3372362a.jpg",
+    "static/media/App.module.scss": "/ciaai2021/static/media/header-background.cbbe3b55.jpg",
+    "static/media/ieee.png": "/ciaai2021/static/media/ieee.4332610e.png",
+    "static/media/keynote_speaker_1.png": "/ciaai2021/static/media/keynote_speaker_1.37ddc857.png",
+    "static/media/keynote_speaker_2.png": "/ciaai2021/static/media/keynote_speaker_2.7ccfeac8.png",
+    "static/media/keynote_speaker_3.png": "/ciaai2021/static/media/keynote_speaker_3.e1fb59a1.png",
+    "static/media/keynote_speaker_4.png": "/ciaai2021/static/media/keynote_speaker_4.addc1693.png",
+    "static/media/ubc.png": "/ciaai2021/static/media/ubc.4aa53f8e.png",
+    "static/media/uot.png": "/ciaai2021/static/media/uot.5d0cd1b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff743eac.js",
+    "static/js/2.f64ada12.chunk.js",
+    "static/css/main.9198e409.chunk.css",
+    "static/js/main.f4c4a4a0.chunk.js"
+  ]
+}
