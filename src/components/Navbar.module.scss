@@ -1,0 +1,15 @@
+.navbar-wrapper{
+    ul {
+        padding: 0;
+        width: 100%;
+        list-style: none;
+        li {
+            padding: 6px 0;
+            border-bottom: 1px solid #aaa;
+            a {
+                text-decoration: none;
+                color: #818181;
+            }
+        }
+    }
+}

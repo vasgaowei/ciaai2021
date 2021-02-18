@@ -1,0 +1,46 @@
+.dates-wrapper {
+    .dates-header-wrapper {
+        background-color: #d3d3d3;
+        text-align: center;
+        h3 {
+            padding: 0.5em;
+            margin: 0;
+            font-size: 21px;
+        }
+    }
+    .important-date-wrapper {
+        border: 1px solid transparent;
+        margin: 10px 0;
+        height: 60px;
+        overflow: hidden;
+        box-shadow: 0 0 0 0.5px rgba(50, 50, 93, .17), 0 2px 5px 0 rgba(50, 50, 93, .1), 0 1px 1.5px 0 rgba(0, 0, 0, .07), 0 1px 2px 0 rgba(0, 0, 0, .08), 0 0 0 0 transparent;
+        .date-wrapper {
+            text-transform: uppercase;
+            width: 60px;
+            float: left;
+            margin: 5px;
+            border-right: 1px solid #d3d3d3;
+            text-align: center;
+            span:first-child {
+                font-size: 11px;
+                display: block;
+                color: darkred;
+            }
+            span:last-child {
+                font-size: 30px;
+                display: block;
+                font-weight: 700;
+            }
+        }
+        .important-date-title {
+            height: 100%;
+            padding-left: 60px;
+            font-size: 12px;
+            color: #666;
+            font-weight: 600;
+        }
+        .date-btn-wrapper {
+            height: 100%;
+        }
+    }
+}

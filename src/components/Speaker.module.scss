@@ -1,0 +1,19 @@
+.speaker_center_wrapper{
+    text-align: center;
+    .speaker_photo {
+        border-radius: 50%;
+    }
+}
+.divider {
+    border-bottom: 1px solid #aaa;
+}
+.divider_light {
+    border-bottom: 1px solid #ccc;
+}
+.subtle {
+    font-weight: 500;
+}
+
+.speaker:last-child .divider_light{
+    display: none;
+}

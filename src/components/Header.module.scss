@@ -1,0 +1,29 @@
+.main-header-background {
+    background-image: url('../imgs/Toronto-skyline.jpg');
+    width: 100%;
+    max-width: 2000px;
+    height: 300px;
+    margin: 0 auto;
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.header-content-wrapper {
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    bottom: 0px;
+    .header-content {
+        margin: 0 auto 2% auto;
+        max-width: 1280px;
+        padding: 0 2%;
+    }
+    h1,
+    h3,
+    h4 {
+        color: white;
+        margin: 0;
+    }
+}
