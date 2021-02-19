@@ -9,7 +9,7 @@ const CallForPaper = ()=> (
         <ul>
             <li>Brain Inspired Artificial Intelligence</li>
             <li>Machine Learning</li>
-            <li>Computer Visio</li>
+            <li>Computer Vision</li>
             <li>Natural Language Processing</li>
             <li>Knowledge Representation and Reasoning</li>
             <li>Data Mining</li>
@@ -20,7 +20,7 @@ const CallForPaper = ()=> (
             <li>Other AI related topics</li>
         </ul>
         <p>Paper submission must be in English. All papers will be double-blind reviewed by the Program Committee based on technical quality, relevance, originality, significance, and clarity. All paper submissions will be handled electronically. Papers that do not comply with the submission policy will be rejected without review.</p>
-        <p><b>Each submitted paper should be no longer than 10 single-spaced pages in length, plus at most2 pages for references</b>. All papers must be submitted electronically through the paper submission system of CMT in PDF format only. If required supplementary material may be submitted as a separate PDF file, but reviewers are not obligated to consider this, and your manuscript should, therefore, stand on its own merits without any supplementary material. Supplementary material will not be published in the proceedings.</p>
+        <p><b>Each submitted paper should be no longer than 10 single-spaced pages in length, plus at most 2 pages for references</b>. All papers must be submitted electronically through the paper submission system of CMT in PDF format only. If required supplementary material may be submitted as a separate PDF file, but reviewers are not obligated to consider this, and your manuscript should, therefore, stand on its own merits without any supplementary material. Supplementary material will not be published in the proceedings.</p>
         <p>The submitted papers must not be previously published anywhere and must not be under consideration by any other conference or journal during the CICAI review process. Submitting a paper to the conference means that if the paper was accepted, at least one author will complete the regular registration.</p>
         <p><b>Accepted papers will be invited to be extended and published in the special issues of “Science China Information Sciences”, and “Tsinghua Science and Technology”.</b> The conference will confer several awards, including Best Paper Award, Best Student Paper Award from the submissions</p>
         
