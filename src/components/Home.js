@@ -4,8 +4,8 @@ import React from 'react';
 const Home = ()=> (
     <div class='home'>
         <p> The CICAI 2021 will be held at Hangzhou, China on May 29th-30th. CICAI is organized by Chinese Association for Artificial Intelligence (CAAI). The aim of CICAI is to promote advanced research in AI, and foster scientific exchange between researchers, practitioners, scientists, students, and engineers in AI and its affiliated disciplines. . </p>
-        <p> The program committee of CICAI 2021 invites the submission of papers for the technical program of the conference. High-quality original submissions are welcome from research results and applications of all areas of AI including but not limited to the following areas: </p>
         <p><b> CICAI 2021 will be a hybrid conference with both online and in-person presentations. </b></p>
+        <p> The program committee of CICAI 2021 invites the submission of papers for the technical program of the conference. High-quality original submissions are welcome from research results and applications of all areas of AI including but not limited to the following areas: </p>
         <ul>
             <li>Brain Inspired Artificial Intelligence</li>
             <li>Machine Learning</li>
