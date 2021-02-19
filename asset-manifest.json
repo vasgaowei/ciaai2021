@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ciaai2021/static/css/main.9198e409.chunk.css",
-    "main.js": "/ciaai2021/static/js/main.26d8594e.chunk.js",
-    "main.js.map": "/ciaai2021/static/js/main.26d8594e.chunk.js.map",
+    "main.js": "/ciaai2021/static/js/main.eabf472e.chunk.js",
+    "main.js.map": "/ciaai2021/static/js/main.eabf472e.chunk.js.map",
     "runtime-main.js": "/ciaai2021/static/js/runtime-main.ff743eac.js",
     "runtime-main.js.map": "/ciaai2021/static/js/runtime-main.ff743eac.js.map",
     "static/js/2.f64ada12.chunk.js": "/ciaai2021/static/js/2.f64ada12.chunk.js",
     "static/js/2.f64ada12.chunk.js.map": "/ciaai2021/static/js/2.f64ada12.chunk.js.map",
     "index.html": "/ciaai2021/index.html",
-    "precache-manifest.15598b0dcf4b3a853b04a58af3a1041e.js": "/ciaai2021/precache-manifest.15598b0dcf4b3a853b04a58af3a1041e.js",
+    "precache-manifest.8c59319a84deb8153e3f21bd3db1fadd.js": "/ciaai2021/precache-manifest.8c59319a84deb8153e3f21bd3db1fadd.js",
     "service-worker.js": "/ciaai2021/service-worker.js",
     "static/css/main.9198e409.chunk.css.map": "/ciaai2021/static/css/main.9198e409.chunk.css.map",
     "static/js/2.f64ada12.chunk.js.LICENSE.txt": "/ciaai2021/static/js/2.f64ada12.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.ff743eac.js",
     "static/js/2.f64ada12.chunk.js",
     "static/css/main.9198e409.chunk.css",
-    "static/js/main.26d8594e.chunk.js"
+    "static/js/main.eabf472e.chunk.js"
   ]
 }
