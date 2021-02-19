@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c8212d39ccae280efcd14b0149c1fd",
+    "revision": "7714b8471d0d357e472794a3738edc2f",
     "url": "/ciaai2021/index.html"
   },
   {
-    "revision": "5b2375ab905e11821c63",
+    "revision": "30eaf9bd39c26d5c67d6",
     "url": "/ciaai2021/static/css/main.9198e409.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ciaai2021/static/js/2.f64ada12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b2375ab905e11821c63",
-    "url": "/ciaai2021/static/js/main.1e2907ac.chunk.js"
+    "revision": "30eaf9bd39c26d5c67d6",
+    "url": "/ciaai2021/static/js/main.26d8594e.chunk.js"
   },
   {
     "revision": "21d3973c3b72df72e9d8",
