@@ -24,10 +24,10 @@ const CallForPaper = ()=> (
         <p>The submitted papers must not be previously published anywhere and must not be under consideration by any other conference or journal during the CICAI review process. Submitting a paper to the conference means that if the paper was accepted, at least one author will complete the regular registration.</p>
         <p><b>Accepted papers will be invited to be extended and published in the special issues of “Science China Information Sciences”, and “Tsinghua Science and Technology”.</b> The conference will confer several awards, including Best Paper Award, Best Student Paper Award from the submissions</p>
         
-        <a href={process.env.PUBLIC_URL + '/CFP_DSLW2021.pdf'} class="btn" class={styles['registration_btn']} target="_blank">Call For Paper Flyer</a>
+        <a href={process.env.PUBLIC_URL + '/CFP-CICAI2021.pdf'} class="btn" class={styles['registration_btn']} target="_blank">Call For Paper Flyer</a>
 
         <h2>Paper Submission</h2>
-        <p>Paper submission will be handled via the CMT system. Please submit your paper at <a href="https://cmt3.research.microsoft.com/DSLW2021" target="_blank">https://cmt3.research.microsoft.com/DSLW2021</a></p>
+        <p>Paper submission will be handled via the CMT system. Please submit your paper at <a href="https://cmt3.research.microsoft.com/CICAI2021" target="_blank">https://cmt3.research.microsoft.com/CICAI2021</a></p>
     </div>
 );
 

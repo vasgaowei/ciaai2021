@@ -54,7 +54,7 @@ function App() {
                 </div>
                 <div className={styles['right-container']}>
                     <Dates />
-                    <Patrons />
+                    
                 </div>
             </div>
             <div className={styles['footer']}></div>

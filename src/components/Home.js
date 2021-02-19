@@ -3,8 +3,9 @@ import React from 'react';
 
 const Home = ()=> (
     <div class='home'>
-        <p> The Global Artificial Intelligence Technology Conference (GAITC) 2021 is a premier venue for presentation and discussion of scientific results and emerging applications in Artificial Intelligence (AI). The GAITC 2021 conference will be held in Hangzhou, China. Hangzhou sits at the head of Hangzhou Bay and is the provincial center in economy, culture, science and education. The conference dates are 29th, May—31st May, 2021. In GAITC 2021, we will also hold a Youth Forum (YOFO) to promote advanced research in AI, and foster scientific exchange between researchers, practitioners, scientists, students, and engineers in AI and its affiliated disciplines. </p>
-        <p>The program committee of GAITC-YOFO2021 invites the submission of papers for the technical program of the conference. High-quality original submissions are welcome from research results and applications of all areas of AI including but not limited to the following areas:</p>
+        <p> The CICAI 2021 will be held at Hangzhou, China on May 29th-30th. CICAI is organized by Chinese Association for Artificial Intelligence (CAAI). The aim of CICAI is to promote advanced research in AI, and foster scientific exchange between researchers, practitioners, scientists, students, and engineers in AI and its affiliated disciplines. . </p>
+        <p> The program committee of CICAI 2021 invites the submission of papers for the technical program of the conference. High-quality original submissions are welcome from research results and applications of all areas of AI including but not limited to the following areas: </p>
+        <p><b> CICAI 2021 will be a hybrid conference with both online and in-person presentations. </b></p>
         <ul>
             <li>Brain Inspired Artificial Intelligence</li>
             <li>Machine Learning</li>

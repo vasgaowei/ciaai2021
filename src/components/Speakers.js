@@ -73,9 +73,9 @@ const Speakers = () => {
         <div>
             <h2>Keynote Speakers</h2>
             <div className={styles['divider']}></div>
-            {SpeakerData.map((data, i) => (
-                <Speaker {...data} key={i} />
-            ))}
+            <div>
+                <p>Coming Soon</p>
+            </div>
         </div>
     )
 };

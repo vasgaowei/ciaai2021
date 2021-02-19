@@ -23,7 +23,7 @@ const Header = () => (
     <div className={styles['main-header-background']}>
         <div className={styles['header-content-wrapper']}>
             <div className={styles['header-content']}>
-                <h1>CIAAI 2021</h1>
+                <h1>CICAI 2021</h1>
                 <h3>CAAI International Conference on Artificial Intelligence</h3>
                 <h4>May 29th - 30th, 2021, Hangzhou, China</h4>
             </div>
