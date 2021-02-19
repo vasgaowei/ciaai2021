@@ -9,7 +9,7 @@ const Home = ()=> (
         <ul>
             <li>Brain Inspired Artificial Intelligence</li>
             <li>Machine Learning</li>
-            <li>Computer Visio</li>
+            <li>Computer Vision</li>
             <li>Natural Language Processing</li>
             <li>Knowledge Representation and Reasoning</li>
             <li>Data Mining</li>
