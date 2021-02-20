@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "698edec4a669f8092076c509ed2e5e76",
+    "revision": "911198c62ace8beabb2efc98c4efb457",
     "url": "/cicai2021/index.html"
   },
   {
-    "revision": "2b649fc7b281ba740dce",
+    "revision": "872040fd58ca05608dcb",
     "url": "/cicai2021/static/css/main.a270b3a9.chunk.css"
   },
   {
-    "revision": "48c0b3d7c7dc21217c49",
-    "url": "/cicai2021/static/js/2.f64ada12.chunk.js"
+    "revision": "62ce0b969bf055117176",
+    "url": "/cicai2021/static/js/2.afa959f7.chunk.js"
   },
   {
     "revision": "bbee919d8888a17953b5bb98359759ba",
-    "url": "/cicai2021/static/js/2.f64ada12.chunk.js.LICENSE.txt"
+    "url": "/cicai2021/static/js/2.afa959f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b649fc7b281ba740dce",
-    "url": "/cicai2021/static/js/main.dc5374f2.chunk.js"
+    "revision": "872040fd58ca05608dcb",
+    "url": "/cicai2021/static/js/main.28c0bf0b.chunk.js"
   },
   {
     "revision": "059c0d7227d34b325a35",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cicai2021/static/media/ieee.4332610e.png"
   },
   {
-    "revision": "37ddc857d36eafa6b41200df5ae40976",
-    "url": "/cicai2021/static/media/keynote_speaker_1.37ddc857.png"
+    "revision": "cbbe3b55d26f3bfc5c3ebe35299cdcf9",
+    "url": "/cicai2021/static/media/keynote_speaker_1.cbbe3b55.png"
   },
   {
-    "revision": "7ccfeac89dc660d1b7a1b5bdfb0f9494",
-    "url": "/cicai2021/static/media/keynote_speaker_2.7ccfeac8.png"
+    "revision": "11d3bb4deaf36059c9f8c2929cfed81c",
+    "url": "/cicai2021/static/media/keynote_speaker_2.11d3bb4d.png"
   },
   {
     "revision": "e1fb59a10fa3f6b62d4e3bb11c7f19ad",
