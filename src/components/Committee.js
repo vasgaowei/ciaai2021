@@ -35,17 +35,28 @@ const Committee = ()=> (
 
         <h2>Advisory Committee</h2>
         <ul>
-        <li>C. L. Philip Chen, Xilin Chen </li> 
-        <li>Yike Guo, Ping Ji </li>
-        <li>Licheng Jiao, Chenglin Liu </li>
-        <li>Derong Liu, Hong Liu </li>
-        <li>Hengtao Shen, Yuanchun Shi </li>
-        <li>Yongduan Song, Fuchun Sun </li>
-        <li>Jianhua Tao, Guoyin Wang </li>
-        <li>Weining Wang, Xiaokang Yang </li>
-        <li>Changshui Zhang, Lihua Zhang </li>
-        <li>Song-Chun Zhu, Wenwu Zhu </li>
-        <li>Yueting Zhuang </li>
+        <li>C. L. Philip Chen, University of Macau, China</li> 
+        <li>Xilin Chen, Institute of Computing Technology, Chinese Academy of Sciences, China</li> 
+        <li>Yike Guo,  Imperial College London, China</li>
+        <li>Ping Ji, The City University of New York, China</li>
+        <li>Licheng Jiao, Xidian University, China</li>
+        <li>Ming Li, University of Science and Technology of China</li>
+        <li>Chenglin Liu, Institute of Automation, Chinese Academy of Sciences, China</li>
+        <li>Derong Liu, University of Illinois at Chicago, USA</li> 
+        <li>Hong Liu,  Peking University, China </li>
+        <li>Hengtao Shen, University of Electronic Science and Technology of China</li>
+        <li>Yuanchun Shi, Tsinghua University, China</li>
+        <li>Yongduan Song, Chongqing University, China</li>
+        <li>Fuchun Sun, Tsinghua University, China</li>
+        <li>Jianhua Tao, Institute of Automation, Chinese Academy of Sciences, China</li>
+        <li>Guoyin Wang, Chongqing University of Posts & Telecommunications, China</li>
+        <li>Weining Wang, Beijing University of Posts and Telecommunications, China</li>
+        <li>Xiaokang Yang, Shanghai Jiao Tong University, China</li>
+        <li>Changshui Zhang, Tsinghua University, China</li>
+        <li>Lihua Zhang, University of California, Irvine, UAS</li>
+        <li>Song-Chun Zhu, Peking University, China</li>
+        <li>Wenwu Zhu, Tshinghua, China</li>
+        <li>Yueting Zhuang, Zhejiang University, China</li>
         </ul>
 
     </div>
