@@ -45,7 +45,7 @@ const Speakers = () => {
         },
         {
             name: 'Dr. Harry Shum',
-            title: 'Professor, Tshinghua University, China',
+            title: 'Professor, Tsinghua University, China',
             paper_title: '',
             photo_url: speaker_2,
             time: '',
