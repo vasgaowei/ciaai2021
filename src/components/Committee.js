@@ -19,7 +19,7 @@ const Committee = ()=> (
         <h2>Publication Chairs</h2>
         <ul>
         <li>Yuchen Guo, Tsinghua University, China</li>
-        <li>Le WU, Hefei University of Technology, China</li>
+        <li>Le Wu, Hefei University of Technology, China</li>
         </ul>
 
         <h2>Presentation Chair</h2>
@@ -53,7 +53,7 @@ const Committee = ()=> (
         <li>Weining Wang, Beijing University of Posts and Telecommunications, China</li>
         <li>Xiaokang Yang, Shanghai Jiao Tong University, China</li>
         <li>Changshui Zhang, Tsinghua University, China</li>
-        <li>Lihua Zhang, University of California, Irvine, UAS</li>
+        <li>Lihua Zhang, University of California, Irvine, USA</li>
         <li>Song-Chun Zhu, Peking University, China</li>
         <li>Wenwu Zhu, Tshinghua, China</li>
         <li>Yueting Zhuang, Zhejiang University, China</li>
