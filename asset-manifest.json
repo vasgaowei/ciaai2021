@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cicai2021/static/css/main.a270b3a9.chunk.css",
-    "main.js": "/cicai2021/static/js/main.28c0bf0b.chunk.js",
-    "main.js.map": "/cicai2021/static/js/main.28c0bf0b.chunk.js.map",
+    "main.js": "/cicai2021/static/js/main.49dd6fae.chunk.js",
+    "main.js.map": "/cicai2021/static/js/main.49dd6fae.chunk.js.map",
     "runtime-main.js": "/cicai2021/static/js/runtime-main.fb9e16b7.js",
     "runtime-main.js.map": "/cicai2021/static/js/runtime-main.fb9e16b7.js.map",
     "static/js/2.afa959f7.chunk.js": "/cicai2021/static/js/2.afa959f7.chunk.js",
     "static/js/2.afa959f7.chunk.js.map": "/cicai2021/static/js/2.afa959f7.chunk.js.map",
     "index.html": "/cicai2021/index.html",
-    "precache-manifest.ffa782cb084f35df7205c5114e49f5aa.js": "/cicai2021/precache-manifest.ffa782cb084f35df7205c5114e49f5aa.js",
+    "precache-manifest.fd3a8ec48c2032c161259e53aa0d1a8a.js": "/cicai2021/precache-manifest.fd3a8ec48c2032c161259e53aa0d1a8a.js",
     "service-worker.js": "/cicai2021/service-worker.js",
     "static/css/main.a270b3a9.chunk.css.map": "/cicai2021/static/css/main.a270b3a9.chunk.css.map",
     "static/js/2.afa959f7.chunk.js.LICENSE.txt": "/cicai2021/static/js/2.afa959f7.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.fb9e16b7.js",
     "static/js/2.afa959f7.chunk.js",
     "static/css/main.a270b3a9.chunk.css",
-    "static/js/main.28c0bf0b.chunk.js"
+    "static/js/main.49dd6fae.chunk.js"
   ]
 }
