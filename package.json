@@ -2,7 +2,7 @@
   "name": "mmsp2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vasgaowei.github.io/cicai2021",
+  "homepage": "https://cicai2021.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
